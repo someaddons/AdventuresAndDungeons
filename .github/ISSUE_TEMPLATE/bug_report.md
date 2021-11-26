@@ -23,6 +23,6 @@ A clear and concise description of what you expected to happen.
 ** Mod version **
 Version of this modpack you used
 
-<!--- IMPORTANT! You find logs in the /minecraft/logs/ folder. Please add your latest.log / (if it did crash)crash.log below with https://gist.github.com/ -->
+<!--- IMPORTANT! You find logs in the /minecraft/logs/ folder. Please add your latest.log / (if it did crash)crash.log below with {https://gist.github.com/](url) -->
 ** Logs **
 Latest/Crash log
